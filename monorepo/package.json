@@ -2,5 +2,8 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@sentry/wizard": "file:../../sentry-wizard"
+  }
 }
