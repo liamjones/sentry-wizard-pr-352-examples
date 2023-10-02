@@ -1,0 +1,4 @@
+[submodule "sentry-wizard"]
+	path = sentry-wizard
+	url = https://github.com/liamjones/sentry-wizard.git
+	branch = better-monorepo-support-for-android-react-native
